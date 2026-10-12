@@ -2,7 +2,7 @@
 
 **Property:** 2336 Gray Dr, Northlake, TX 76247 (Pecan Square), MLS #21398130, for sale by owner
 **Purpose:** Line up local mortgage brokers to refer buyers who contact us without a realtor or a lender.
-**Status (2026-10-12):** Email drafts created in Gmail for all 8 brokers below. **Not sent yet.**
+**Status (2026-10-12):** Gmail drafts ready for brokers 1–7 (**not sent yet**). The email to #8 (My Loan Partners) went out on Oct 11 with the earlier wording, so a short follow-up reply is drafted for it (see below).
 
 ## Brokers (Denton County)
 
@@ -15,7 +15,7 @@
 | 5 | Ensure Home Loans LLC | General inbox | Lewisville (2785 Rockbrook Dr, Ste 304) | contact@ensurehomeloans.com | (682) 622-9362* | Co. 1666674 | Created |
 | 6 | Oasis Home Mortgage | Shane Campbell | Trophy Club (7 Greenbriar Ct) | shane@oasishomemortgages.com | (972) 754-8957 | Co. 2536351 / Ind. 1211817 | Created |
 | 7 | Finite Mortgage, Inc. | Stewart Bigham (President) | Trophy Club (6 Heritage Ct) | stewart@finitemortgage.com | (817) 313-6498 | Co. 89577 / Ind. 291237 | Created |
-| 8 | My Loan Partners (powered by NEXA Mortgage) | Kenny Merdan | Argyle (349 Creekside Trail) | kenny@applywithkenny.com | (651) 417-1085 | Ind. 1504326 / NEXA 1660690 | Created |
+| 8 | My Loan Partners (powered by NEXA Mortgage) | Kenny Merdan | Argyle (349 Creekside Trail) | kenny@applywithkenny.com | (651) 417-1085 | Ind. 1504326 / NEXA 1660690 | Sent Oct 11 (earlier wording); follow-up drafted |
 
 \* Phone from business directory listings, not confirmed on the company site.
 
@@ -42,7 +42,7 @@ Confirm each license at https://www.nmlsconsumeraccess.org before referring a bu
 | Denton County Mortgage | Denton (511 S Locust St) | (940) 566-3266 | Owner Chase Bryant. No published email; call. |
 | Curtis Mortgage Inc | Denton (519 S Carroll Blvd, #103) | (940) 566-5363 | No published email; call. |
 
-## Email drafted for each broker
+## Email drafted for brokers 1–7
 
 **Subject:** Buyer referrals for my FSBO home at 2336 Gray Dr, Northlake
 
@@ -50,7 +50,7 @@ Confirm each license at https://www.nmlsconsumeraccess.org before referring a bu
 >
 > My name is Blake Oliver. I'm selling my home at 2336 Gray Dr. in Northlake, in the Pecan Square community. It's a 4-bedroom, 2.5-bath two-story, and I'm selling it by owner. It's on the MLS (#21398130), but I don't have a listing agent.
 >
-> Since there's no agent on my side, some buyers may contact me directly without a realtor or a lender. I'm putting together a short list of Denton County mortgage brokers I can refer them to, and since you're based in {City}, I wanted to reach out to you.
+> Since there's no agent on my side, some buyers may contact me directly without a realtor or a mortgage broker. When that happens, I'd like to refer them to you. I'm reaching out to a few Denton County brokers, and your {City} office would be convenient for buyers.
 >
 > Would you be willing to take these buyers on as new clients? If so, it would help to know:
 >
@@ -58,7 +58,7 @@ Confirm each license at https://www.nmlsconsumeraccess.org before referring a bu
 > - Which loan types you offer (Conventional, VA, FHA, etc.) and how quickly you can usually issue a pre-approval
 > - Whether you're comfortable working with buyers who don't have an agent
 >
-> I'm also advertising 5.5% fixed-rate financing through a seller-paid rate buydown, so please let me know whether you can structure that for a buyer.
+> Would you also be comfortable sending me some of your business cards? That way I can share them with prospective buyers. You can mail them to 2336 Gray Dr., Northlake, TX 76247.
 >
 > I'm not asking for a referral fee or anything in return. I just want buyers to have a reliable local option. I'm lining up a real estate attorney for the contract, and a title company will handle the closing.
 >
@@ -68,11 +68,27 @@ Confirm each license at https://www.nmlsconsumeraccess.org before referring a bu
 > 310-920-2211
 > blake.oliver@gmail.com
 
+For the two Trophy Club brokers (#6 and #7), the city sentence reads "your Trophy Club office is just down the road from the house."
+
 The "no referral fee" line is deliberate. RESPA Section 8 bars paying or accepting anything of value for referring mortgage business, so saying so up front lets brokers say yes without a compliance question.
+
+### Follow-up drafted for My Loan Partners (#8)
+
+The first email to Kenny Merdan went out on Oct 11. It still mentioned 5.5% financing through a seller-paid rate buydown and didn't ask for business cards. This reply is drafted in the same Gmail thread:
+
+> Hi Kenny,
+>
+> A quick correction to my email below: please disregard the paragraph about 5.5% financing through a seller-paid rate buydown. If a buyer comes to me without a mortgage broker, I'd simply like to refer them to you.
+>
+> Would you also be comfortable sending me some of your business cards? That way I can share them with prospective buyers. You can mail them to 2336 Gray Dr., Northlake, TX 76247.
+>
+> Thanks,
+> Blake Oliver
+> 310-920-2211
 
 ## Responses
 
-| # | Company | Replied? | Will take buyers? | Buydown OK? | Notes |
+| # | Company | Replied? | Will take buyers? | Sending cards? | Notes |
 |---|---------|----------|-------------------|-------------|-------|
 | 1 | Affiliated Mortgage Lending | | | | |
 | 2 | J Philips Mortgage | | | | |
